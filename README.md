@@ -25,5 +25,3 @@ This system helps businesses and support teams automate responses to common cust
 | Data Storage        | Google Sheets / Notion / MySQL (optional) |
 | UI (Optional)       | HTML, CSS, JavaScript         |
 
-## 📂 Folder Structure
-
