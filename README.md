@@ -9,7 +9,7 @@ This system helps businesses and support teams automate responses to common cust
 ## 🛠️ Features
 
 - 🧠 AI-Powered Chat Responses using NLP (OpenAI)
-- 🔄 Automated Workflows built with [n8n](https://n8n.io/)
+- 🔄 Automated Workflows 
 - 📩 Email Parsing and Auto-Reply
 - 🗂️ Ticket Categorization and Prioritization
 - 📊 Analytics Dashboard for ticket insights (future scope)
