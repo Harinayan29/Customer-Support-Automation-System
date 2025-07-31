@@ -26,11 +26,19 @@ This system helps businesses and support teams automate responses to common cust
 | UI (Optional)       | HTML, CSS, JavaScript         |
 
 ### 🖼️ User Interface Previews
+<p float="left">
+  <img src="images/1.png" width="300"/>
+  <img src="images/2.png" width="300"/>
+  <img src="images/3.png" width="300"/>
+</p>
 
-![Screenshot 1](images/1.png)
-![Screenshot 2](images/2.png)
-![Screenshot 3](images/3.png)
-![Screenshot 4](images/4.png)
-![Screenshot 5](images/5.png)
-![Screenshot 6](images/6.png)
-![Screenshot 7](images/7.png)
+<p float="left">
+  <img src="images/4.png" width="300"/>
+  <img src="images/5.png" width="300"/>
+  <img src="images/6.png" width="300"/>
+</p>
+
+<p>
+  <img src="images/7.png" width="300"/>
+</p>
+
